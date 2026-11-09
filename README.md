@@ -7,14 +7,13 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou estudante de Engenharia de Computação na Universidade Federal do Ceará (UFC) e formado como Técnico em Desenvolvimento de Sistemas pela EEEP Deputado Roberto Mesquita (2023–2025).
+Sou estudante de Engenharia de Computação na Universidade Federal do Ceará (UFC) e formado como Técnico em Desenvolvimento de Sistemas pela EEEP Deputado Roberto Mesquita.
 
-Meu contato com a tecnologia começou durante o ensino técnico, período em que tive a oportunidade de conhecer diferentes áreas da programação e desenvolver projetos envolvendo aplicações Web e Mobile, além de explorar conceitos relacionados ao desenvolvimento de software.
+Meu contato com a tecnologia começou durante o ensino técnico, período em que tive a oportunidade de conhecer diferentes áreas da programação e participar do desenvolvimento de projetos. Ao longo dessa trajetória, explorei conceitos de desenvolvimento de software, aplicações web e mobile, além de ferramentas e tecnologias relacionadas à computação.
 
-Atualmente, sigo ampliando meus conhecimentos na graduação, buscando compreender melhor o funcionamento dos sistemas computacionais e a relação entre hardware e software.
+Atualmente, sigo ampliando meus conhecimentos na graduação, com interesse tanto no desenvolvimento de software quanto nos aspectos físicos e estruturais dos computadores. Gosto de entender como os sistemas funcionam, desde a programação até os componentes de hardware que tornam seu funcionamento possível.
 
-Tenho curiosidade por diferentes áreas da computação e ainda estou descobrindo qual caminho desejo seguir profissionalmente. Vejo a graduação como uma oportunidade de experimentar, aprender e encontrar aquilo com que mais me identifico.
-
+Acredito que cada projeto é uma oportunidade de aprender, experimentar novas ideias e evoluir na área da tecnologia. 🚀
 🚀 Acredito que cada projeto é uma oportunidade de adquirir conhecimento, desenvolver habilidades e evoluir.
 
 ## 💡 Áreas de interesse
