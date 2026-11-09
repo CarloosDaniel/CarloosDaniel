@@ -38,17 +38,6 @@ Tenho interesse em explorar diferentes possibilidades dentro da tecnologia, espe
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarloosDaniel&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&title_color=B22222&icon_color=B22222"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarloosDaniel&layout=compact&theme=dark&hide_border=true&title_color=B22222"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=CarloosDaniel&theme=dark&hide_border=true&ring=B22222&fire=B22222&currStreakLabel=B22222" />
-</div>
-
 ## 🎓 Formação acadêmica
 
 🎓 **Engenharia de Computação**  
