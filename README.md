@@ -51,7 +51,7 @@ EEEP Deputado Roberto Mesquita
 ## 🌐 Onde me encontrar
 
 [![GitHub](https://img.shields.io/badge/GitHub-CarloosDaniel-181717?style=for-the-badge&logo=github)](https://github.com/CarloosDaniel)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Carlos%20Daniel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/carlos-daniel-gomes-uchoa-756729365)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Carlos%20Daniel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-daniel-gomes-uchoa-756729365/)
 
 ---
 
